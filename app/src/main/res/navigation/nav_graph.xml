@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/onBordFragment">
+
+    <fragment
+        android:id="@+id/onBordFragment"
+        android:name="com.example.dop24.onBords.OnBoardFragment"
+        android:label="fragment_on_bord"
+        tools:layout="@layout/fragment_on_board" />
+
+    <fragment
+        android:id="@+id/onBordPagingFragment"
+        android:name="com.example.dop24.onBords.OnBoardPagingFragment"
+        android:label="fragment_on_bord_paging"
+        tools:layout="@layout/fragment_on_board_paging" />
+
+</navigation>
