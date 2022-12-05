@@ -1,4 +1,4 @@
-package com.example.dop24.onBords
+package com.example.dop24.onboars
 
 import android.os.Bundle
 import android.view.LayoutInflater

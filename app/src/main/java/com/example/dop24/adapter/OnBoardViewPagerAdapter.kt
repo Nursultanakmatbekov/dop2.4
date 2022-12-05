@@ -3,7 +3,7 @@ package com.example.dop24.adapter
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import androidx.viewpager2.adapter.FragmentStateAdapter
-import com.example.dop24.onBords.OnBoardPagingFragment
+import com.example.dop24.onboars.OnBoardPagingFragment
 
 class OnBoardViewPagerAdapter(
     fragment: Fragment

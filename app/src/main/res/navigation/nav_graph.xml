@@ -7,13 +7,13 @@
 
     <fragment
         android:id="@+id/onBordFragment"
-        android:name="com.example.dop24.onBords.OnBoardFragment"
+        android:name="com.example.dop24.onboars.OnBoardFragment"
         android:label="fragment_on_bord"
         tools:layout="@layout/fragment_on_board" />
 
     <fragment
         android:id="@+id/onBordPagingFragment"
-        android:name="com.example.dop24.onBords.OnBoardPagingFragment"
+        android:name="com.example.dop24.onboars.OnBoardPagingFragment"
         android:label="fragment_on_bord_paging"
         tools:layout="@layout/fragment_on_board_paging" />
 
